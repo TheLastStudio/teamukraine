@@ -83,6 +83,7 @@ div#carousel ~ span:hover { color: #888; cursor: pointer; }
 /* Handle */
 ::-webkit-scrollbar-thumb {
   background: #0C6DFF;
+  transition: .15s;
 }
 
 /* Handle on hover */
@@ -106,8 +107,13 @@ div#carousel ~ span:hover { color: #888; cursor: pointer; }
 /*Added by cringe007*/
 
 #sponsors{
-  background: url('/images/head.png') center center repeat-x;
+  background: url('/images/head_blue.png') center center repeat-x;
   background-size: cover;
   width: 100%;
   min-height: 54vh;
+  transition: .15s;
+}
+
+#sponsors:hover{
+  background-image: url('/images/head.png');
 }
