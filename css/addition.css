@@ -107,7 +107,7 @@ div#carousel ~ span:hover { color: #888; cursor: pointer; }
 /*Added by cringe007*/
 
 #sponsors{
-  background: url('/images/head_blue.png') center center repeat-x;
+  background: url('../images/head_blue.png') center center repeat-x;
   background-size: cover;
   width: 100%;
   min-height: 54vh;
@@ -115,5 +115,5 @@ div#carousel ~ span:hover { color: #888; cursor: pointer; }
 }
 
 #sponsors:hover{
-  background-image: url('/images/head.png');
+  background-image: url('../images/head.png');
 }
