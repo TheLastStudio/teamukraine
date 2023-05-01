@@ -1513,7 +1513,7 @@ ul#nav li.current a:after {
 }
 
 .popup-modal .description-box p {
-	font: 14px/24px "merriweather-regular", serif;
+	font-size: 14px/24px;
 	color: #A1A1A1;
 	margin-bottom: 12px;
 }
