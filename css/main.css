@@ -2184,7 +2184,7 @@ ul#nav li.current a:after {
 }
 
 #contact h3 {
-	font: 18px/36px "raleway-heavy", sans-serif;
+	font: 18px/36px 'Montserrat', sans-serif;
 	color: #FFD700;
 	padding: 0;
 	margin-bottom: 6px;
@@ -2222,7 +2222,7 @@ ul#nav li.current a:after {
 	}
 
 	#contact .right p.lead {
-		font: 18px/36px "merriweather-light", serif;
+		font: 18px/36px 'Montserrat', sans-serif;
 	}
 
 }
@@ -2234,7 +2234,7 @@ ul#nav li.current a:after {
 	}
 
 	#contact .right p.lead {
-		font: 17px/33px "merriweather-light", serif;
+		font: 17px/33px 'Montserrat', sans-serif;
 	}
 
 }
@@ -2268,7 +2268,7 @@ ul#nav li.current a:after {
 }
 
 #contact form div label {
-	font: 11px/24px "raleway-bold", sans-serif;
+	font: 11px/24px 'Montserrat', sans-serif;
 	position: absolute;
 	bottom: 3px;
 	right: 6px;

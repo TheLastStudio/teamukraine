@@ -14,6 +14,6 @@
   background-image: url('../images/head.png');
 }
 
-#about_us, #team{
-  font-family: "raleway-heavy", sans-serif;
+body{
+  font-family: 'Montserrat', sans-serif;
 }
