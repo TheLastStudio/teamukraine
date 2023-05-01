@@ -2433,7 +2433,7 @@ footer {
 	padding-top: 60px;
 	padding-bottom: 24px;
 	position: relative;
-	color: rgba(255, 255, 255, 0.15);
+	color: rgba(255, 255, 255, 1);
 }
 
 footer .content {
@@ -2474,9 +2474,7 @@ footer .footer-logo {
 	background-size: 100px 23px;
 	margin: 0 auto 21px;
 	display: block;
-	filter: alpha(opacity=10);
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=10)";
-	opacity: 0.1;
+	opacity: 1;
 	zoom: 1;
 }
 
@@ -2488,6 +2486,7 @@ footer .copyright {
 	font: 14px/24px "raleway-medium", sans-serif;
 	letter-spacing: .5px;
 	text-align: center;
+	opacity: 0.4;
 }
 
 footer .copyright li {
@@ -2511,7 +2510,7 @@ footer .social-links li {
 }
 
 footer .social-links li a {
-	color: rgba(255, 255, 255, 0.1);
+	color: rgba(255, 255, 255, 1);
 }
 
 footer .social-links li a:hover {
